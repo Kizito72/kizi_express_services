@@ -4,13 +4,6 @@
 
 **Kizi Express Services** is a comprehensive web-based logistics and transportation management platform designed to provide global freight forwarding, sea/air charter, customs clearance, 3PL warehousing, and mobile freight services.
 
-### Company Information
-- **Name:** Kizi Express Services
-- **Years in Business:** 20+ years (since 2008)
-- **Primary Focus:** International logistics, freight forwarding, and supply chain solutions
-- **Headquarters:** Abuja, Nigeria (No. 76 East West Road, Wuse Zone, Federal Line)
-- **Website:** https://delivery.kiziton.com
-
 ---
 
 ## Table of Contents
@@ -31,7 +24,7 @@
 ## Project Structure
 
 ```
-delivery.kiziton.com/
+kizi_express_services/
 ├── index.html                          # Main landing page
 ├── css/                                # Stylesheets
 │   ├── testimony.css                   # Testimonial carousel styling
@@ -122,7 +115,7 @@ delivery.kiziton.com/
 1. **Clone/Download Project**
    ```bash
    git clone <repository-url>
-   cd delivery.kiziton.com
+   cd kizi_express_services
    ```
 
 2. **Database Setup**
@@ -143,7 +136,7 @@ delivery.kiziton.com/
    ```
 
 4. **Configure Web Server**
-   - Point your web root to the `delivery.kiziton.com` directory
+   - Point your web root to the `kizi_express_services` directory
    - Ensure `.htaccess` files are enabled
 
 5. **Set File Permissions**
@@ -154,9 +147,9 @@ delivery.kiziton.com/
    ```
 
 6. **Access the Application**
-   - Frontend: `http://localhost/delivery.kiziton.com/`
-   - Admin Panel: `http://localhost/delivery.kiziton.com/tracking-portal/main-admin/admin.php`
-   - Customer Portal: `http://localhost/delivery.kiziton.com/tracking-portal/main-admin/admin-panel-customer.php`
+   - Frontend: `http://localhost/kizi_express_services/`
+   - Admin Panel: `http://localhost/kizi_express_services/tracking-portal/main-admin/admin.php`
+   - Customer Portal: `http://localhost/kizi_express_services/tracking-portal/main-admin/admin-panel-customer.php`
 
 ---
 
